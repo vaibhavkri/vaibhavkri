@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vaibhavkri
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning and Computer Vision
+- 🌱 I’m currently learning Chat Bot development on NLU and NLP
+- 💞️ I’m looking to collaborate on Machine learning algorithms.
+- 📫 How to reach me email or phone call will do
